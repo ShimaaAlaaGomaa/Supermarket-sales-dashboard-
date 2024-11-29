@@ -6,8 +6,16 @@ Welcome to the **Supermarket Sales Analysis Project**, where we leverage data in
 ---
 
 ## 🖼️ Overview  
-Below is a snapshot of the interactive Power BI dashboard created for this project:  
-![Dashboard](./shimaa,supermarket_sales-dashboard.jpg)  
+Here are snapshots of the interactive Power BI dashboard created for this project:  
+
+### Dashboard 1  
+![Dashboard 1](./IMG_٢٠٢٤١١٠٢_٢٢٠٢٠٠.jpg)  
+
+### Dashboard 2  
+![Dashboard 2](./IMG_٢٠٢٤١١٠٢_٢٢٠١٤٢.jpg)  
+
+### Dashboard 3  
+![Dashboard 3](./IMG_٢٠٢٤١١٠٢_٢٢٠١١٦.jpg)  
 
 ---
 
@@ -54,4 +62,4 @@ Below is a snapshot of the interactive Power BI dashboard created for this proje
 ## 📩 Contact  
 💼 Created by **Shimaa Alaa**  
 📧 Email: shimaaalaagomaa@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/iin/shimaa-alaa5)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shimaa-alaa5)
